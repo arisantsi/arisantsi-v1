@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[40],{55:function(n,e,a){"use strict";a.r(e);var c=a(0),o=a.n(c),s=a(7),t=a.n(s),p=a(66),r=a.n(p);const i=n=>o.a.createElement("h1",{className:r.a.Container},n.children);i.propTypes={children:t.a.oneOfType([t.a.string,t.a.object])},e.default=i}}]);
