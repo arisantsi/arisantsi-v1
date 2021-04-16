@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://arisantsi.github.io/blog</id>
+    <title>Ariti Blog</title>
+    <updated>2021-04-04T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://arisantsi.github.io/blog"/>
+    <subtitle>Ariti Blog</subtitle>
+    <icon>https://arisantsi.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ramadhan 2021]]></title>
+        <id>sambut-bulan-ramadhan-2021</id>
+        <link href="https://arisantsi.github.io/blog/sambut-bulan-ramadhan-2021"/>
+        <updated>2021-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Menyambut bulan suci Ramadhan akan dilaksanakan silahturahmi kepada seluruh warga Taman Serpong Indah baik bapak-bapak, ibu-ibu, anak-anak kita semua. Tema yang kita pakai adalah Makan Bersama Nikmat Barokah.]]></summary>
+    </entry>
+</feed>

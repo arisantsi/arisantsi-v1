@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{79:function(a){a.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Ramadhan 2021","permalink":"/blog/sambut-bulan-ramadhan-2021"}]}')}}]);
